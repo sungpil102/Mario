@@ -769,7 +769,6 @@ public class MyLevel extends Level{
 	        	}
 	        	
 	        }
-
 	        return length;
 	    }
 
